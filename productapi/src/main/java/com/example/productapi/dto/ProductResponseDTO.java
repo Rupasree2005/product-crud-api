@@ -1,4 +1,4 @@
-package com.telusko.productapi.dto;
+package com.example.productapi.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

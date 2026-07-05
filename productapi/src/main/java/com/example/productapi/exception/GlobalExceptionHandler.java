@@ -1,4 +1,4 @@
-package com.telusko.productapi.exception;
+package com.example.productapi.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

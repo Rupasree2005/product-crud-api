@@ -1,10 +1,10 @@
-package com.telusko.productapi.service;
+package com.example.productapi.service;
 
-import com.telusko.productapi.dto.ProductRequestDTO;
-import com.telusko.productapi.dto.ProductResponseDTO;
-import com.telusko.productapi.entity.Product;
-import com.telusko.productapi.exception.ResourceNotFoundException;
-import com.telusko.productapi.repo.ProductRepository;
+import com.example.productapi.dto.ProductRequestDTO;
+import com.example.productapi.dto.ProductResponseDTO;
+import com.example.productapi.entity.Product;
+import com.example.productapi.exception.ResourceNotFoundException;
+import com.example.productapi.repo.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

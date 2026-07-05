@@ -1,4 +1,4 @@
-package com.telusko.productapi.dto;
+package com.example.productapi.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

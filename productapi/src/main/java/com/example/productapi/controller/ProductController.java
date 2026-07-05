@@ -1,8 +1,8 @@
-package com.telusko.productapi.controller;
+package com.example.productapi.controller;
 
-import com.telusko.productapi.dto.ProductRequestDTO;
-import com.telusko.productapi.dto.ProductResponseDTO;
-import com.telusko.productapi.service.ProductService;
+import com.example.productapi.dto.ProductRequestDTO;
+import com.example.productapi.dto.ProductResponseDTO;
+import com.example.productapi.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

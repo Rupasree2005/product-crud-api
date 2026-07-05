@@ -1,7 +1,7 @@
-package com.telusko.productapi.service;
+package com.example.productapi.service;
 
-import com.telusko.productapi.dto.ProductRequestDTO;
-import com.telusko.productapi.dto.ProductResponseDTO;
+import com.example.productapi.dto.ProductRequestDTO;
+import com.example.productapi.dto.ProductResponseDTO;
 
 import java.util.List;
 

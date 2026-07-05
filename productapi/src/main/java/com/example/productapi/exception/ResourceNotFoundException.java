@@ -1,4 +1,4 @@
-package com.telusko.productapi.exception;
+package com.example.productapi.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 

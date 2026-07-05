@@ -1,7 +1,7 @@
 
-package com.telusko.productapi.repo;
+package com.example.productapi.repo;
 
-import com.telusko.productapi.entity.Product;
+import com.example.productapi.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
